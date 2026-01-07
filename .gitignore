@@ -1,0 +1,32 @@
+# Generated data
+v1/
+v1_1000/
+data/
+env/
+localenv/
+
+# Evaluation outputs
+eval/eval_results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Misc
+.trash/
+*.log
+.DS_Store
+
+# Internal docs
+RELEASE_PLAN.md
